@@ -35,7 +35,7 @@ apis:
   tags: People
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/people/master/_listings/flickr/rest-method-flickr-people-getphotos-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/people/master/_listings/flickr/rest-method-flickr-people-getinfo-get.md
 x-common:
 - type: x-authentication
   url: https://www.flickr.com/services/api/auth.oauth.html
