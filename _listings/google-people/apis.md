@@ -16,8 +16,8 @@ tags:
 - Stack Network
 - People
 - Google APIs
-created: "2018-02-25"
-modified: "2018-02-25"
+created: "2018-03-13"
+modified: "2018-03-13"
 url: https://raw.githubusercontent.com/streamdata-gallery/people/master/_listings/google-people/apis.yaml
 specificationVersion: "0.14"
 apis:
@@ -30,7 +30,7 @@ apis:
   tags: People
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/people/master/_listings/google-people/v1-resourcename-connections-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/people/master/_listings/google-people/v1-people-batchget-get.md
 x-common:
 - type: x-code
   url: https://developers.google.com/people/v1/libraries
