@@ -30,7 +30,7 @@ apis:
   tags: People
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/people/master/_listings/google-people/v1-people-batchget-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/people/master/_listings/google-people/v1-resourcename-get.md
 x-common:
 - type: x-code
   url: https://developers.google.com/people/v1/libraries
