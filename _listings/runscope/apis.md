@@ -15,9 +15,9 @@ tags:
 - Monitoring
 - Monitoring
 - API LIfeycle
-created: "2018-03-13"
-modified: "2018-03-13"
-url: https://raw.githubusercontent.com/streamdata-gallery/people/master/_listings/runscope/apis.yaml
+created: "2018-03-21"
+modified: "2018-03-21"
+url: https://raw.githubusercontent.com/streamdata-gallery-topics/people/master/_listings/runscope/apis.yaml
 specificationVersion: "0.14"
 apis:
 - name: Runscope
@@ -30,7 +30,7 @@ apis:
   tags: People
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/people/master/_listings/runscope/teams-teamid-people-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/people/master/_listings/runscope/teams-teamid-people-get.md
 x-common:
 - type: x-base-url
   url: https://api.runscope.com
