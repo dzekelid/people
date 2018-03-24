@@ -22,7 +22,18 @@ created: "2018-03-23"
 modified: "2018-03-23"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/people/master/_listings/linkedin/apis.yaml
 specificationVersion: "0.14"
-apis: []
+apis:
+- name: LinkedIn
+  description: With over 100 million users representing over 200 countries around
+    the world, LinkedIn is a fast-growing professional networking site that allows
+    members to create business contacts, search for jobs, and find potential clients
+  image: https://avatars.githubusercontent.com/u/357098?v=3
+  humanURL: ""
+  baseURL: https://api.linkedin.com//v1
+  tags: People
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/people/master/_listings/linkedin/people-shares-post.md
 x-common:
 - type: x-authentication
   url: https://developer.linkedin.com/documents/authentication
