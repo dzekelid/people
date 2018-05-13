@@ -31,7 +31,27 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/people/master/_listings/google-people/v1-resourcename-get.md
+- name: Google People API Get People
+  description: |-
+    Provides information about a list of specific people by specifying a list
+    of requested resource names. Use `people/me` to indicate the authenticated
+    user.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/google-people.png
+  humanURL: https://developers.google.com/people/
+  baseURL: http:://people.googleapis.com//
+  tags: People
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/people/master/_listings/google-people/v1-people-batchget-get.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/people/master/_listings/google-people/v1-people-batchget-get-postman.md
 x-common:
+- type: x-code
+  url: https://developers.google.com/people/v1/libraries
+- type: x-terms-of-service
+  url: https://developers.google.com/people/terms
+- type: x-website
+  url: https://developers.google.com/people/
 - type: x-code
   url: https://developers.google.com/people/v1/libraries
 - type: x-terms-of-service
