@@ -36,17 +36,17 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/people/master/_listings/flickr/rest-method-flickr-people-getinfo-get.md
-- name: Flickr Get People Photos
-  description: Return photos from the given user's photostream
+- name: Flickr Get People
+  description: Returns a person
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/flickr-logo.jpg
   humanURL: http://www.flickr.com/
   baseURL: http:://api.flickr.com//services
   tags: People
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/people/master/_listings/flickr/rest-method-flickr-people-getphotos-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/people/master/_listings/flickr/rest-method-flickr-people-getinfo-get.md
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/people/master/_listings/flickr/rest-method-flickr-people-getphotos-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/people/master/_listings/flickr/rest-method-flickr-people-getinfo-get-postman.md
 x-common:
 - type: x-authentication
   url: https://www.flickr.com/services/api/auth.oauth.html
