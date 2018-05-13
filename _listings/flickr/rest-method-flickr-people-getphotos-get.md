@@ -1,7 +1,9 @@
 ---
 swagger: "2.0"
 info:
-  title: Flickr
+  title: Flickr Get People Photos
+  description: Return photos from the given user's photostream
+  termsOfService: https://www.flickr.com/services/api/tos/
   version: 1.0.0
 host: api.flickr.com
 basePath: /services
@@ -387,6 +389,26 @@ definitions:
       can_comment:
         description: This is a default description.
         type: post
+  Size:
+    properties:
+      label:
+        description: This is a default description.
+        type: get
+      width:
+        description: This is a default description.
+        type: get
+      height:
+        description: This is a default description.
+        type: get
+      source:
+        description: This is a default description.
+        type: get
+      url:
+        description: This is a default description.
+        type: get
+      media:
+        description: This is a default description.
+        type: get
 x-collection-name: Flickr
 x-streamrank:
   polling_total_time_average: 0
