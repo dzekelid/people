@@ -1,8 +1,8 @@
 ---
 swagger: "2.0"
 info:
-  title: LinkedIn
-  description: Bring user profiles and professional networks to your apps.
+  title: LinkedIn Add People ~ Shares
+  description: Post people ~ shares
   version: 1.0.0
 host: api.linkedin.com
 basePath: /v1
@@ -22,6 +22,11 @@ paths:
       - in: header
         name: Content-Type
         description: The content type
+      - in: query
+        name: format
+        description: The message format
+        type: string
+        format: string
       - in: header
         name: x-li-format
         description: The content type
