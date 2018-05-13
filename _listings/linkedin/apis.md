@@ -34,15 +34,15 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/people/master/_listings/linkedin/people-shares-post.md
-- name: LinkedIn Get People
-  description: Get people ~
+- name: LinkedIn Add People ~ Shares
+  description: Post people ~ shares
   image: https://avatars.githubusercontent.com/u/357098?v=3
   humanURL: http://linkedin.com
   baseURL: https://api.linkedin.com//v1
   tags: People
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/people/master/_listings/linkedin/people-~-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/people/master/_listings/linkedin/people-shares-post.md
 x-common:
 - type: x-authentication
   url: https://developer.linkedin.com/documents/authentication
