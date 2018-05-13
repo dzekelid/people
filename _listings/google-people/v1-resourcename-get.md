@@ -1,8 +1,10 @@
 ---
 swagger: "2.0"
 info:
-  title: Google People
-  description: Provides access to information about profiles and contacts.
+  title: Google People API Get Person
+  description: |-
+    Provides information about a person resource for a resource name. Use
+    `people/me` to indicate the authenticated user.
   contact:
     name: Google
     url: https://google.com
