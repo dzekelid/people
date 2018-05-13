@@ -36,7 +36,36 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/people/master/_listings/flickr/rest-method-flickr-people-getinfo-get.md
+- name: Flickr Get People Photos
+  description: Return photos from the given user's photostream
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/flickr-logo.jpg
+  humanURL: http://www.flickr.com/
+  baseURL: http:://api.flickr.com//services
+  tags: People
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/people/master/_listings/flickr/rest-method-flickr-people-getphotos-get.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/people/master/_listings/flickr/rest-method-flickr-people-getphotos-get-postman.md
 x-common:
+- type: x-authentication
+  url: https://www.flickr.com/services/api/auth.oauth.html
+- type: x-base
+  url: https://api.flickr.com/services/
+- type: x-developer
+  url: https://www.flickr.com/services/api/
+- type: x-getting-started
+  url: https://www.flickr.com/services/developer/
+- type: x-privacy
+  url: https://info.yahoo.com/privacy/us/yahoo/flickr/details.html
+- type: x-support
+  url: https://help.yahoo.com/kb/flickr-for-desktop
+- type: x-terms-of-service
+  url: https://www.flickr.com/services/api/tos/
+- type: x-twitter
+  url: https://twitter.com/flickr
+- type: x-website
+  url: http://www.flickr.com/
 - type: x-authentication
   url: https://www.flickr.com/services/api/auth.oauth.html
 - type: x-base
