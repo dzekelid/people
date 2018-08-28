@@ -23,96 +23,6 @@
 			]
 		},
 		{
-			"name": "TVTag ",
-			"x-api-slug": "tvtag-",
-			"description": "Discover what to watch, share what youre watching with friends and fans, and get updates from your favorite shows",
-			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/208-tvtag-.jpg",
-			"humanURL": "http://tvtag.com/",
-			"baseURL": "https:///",
-			"tags": "People",
-			"properties": [
-				{
-					"type": "x-openapi-spec",
-					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/people/master/_listings/tvtag-/openapi.md"
-				}
-			]
-		},
-		{
-			"name": "LinkedIn",
-			"x-api-slug": "linkedin",
-			"description": "DZone Software provides tools and processes to help customers accelerate productivity through agile learning and knowledge-centered collaboration.",
-			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/221-linkedin.jpg",
-			"humanURL": "http://linkedin.com",
-			"baseURL": "https://api.linkedin.com//v1",
-			"tags": "People",
-			"properties": [
-				{
-					"type": "x-openapi-spec",
-					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/people/master/_listings/linkedin/openapi.md"
-				}
-			]
-		},
-		{
-			"name": "Huddle",
-			"x-api-slug": "huddle",
-			"description": "Team collaboration & project management software for enterprise and government. Manage tasks, projects and documents simply in secure cloud workspaces.",
-			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/423-huddle.jpg",
-			"humanURL": "http://www.huddle.com",
-			"baseURL": "https:///",
-			"tags": "People",
-			"properties": [
-				{
-					"type": "x-openapi-spec",
-					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/people/master/_listings/huddle/openapi.md"
-				}
-			]
-		},
-		{
-			"name": "Cisco WebEx",
-			"x-api-slug": "cisco-webex",
-			"description": "Cisco Webex is the leading enterprise solution for video conferencing & web conferencing today. This secure software-based platform for video & audio conferencing, group messaging & webinars helps organizations be more productive.Participants can join ...",
-			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/730-cisco-webex.jpg",
-			"humanURL": "https://webex.com",
-			"baseURL": "https://api.ciscospark.com//v1",
-			"tags": "People",
-			"properties": [
-				{
-					"type": "x-openapi-spec",
-					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/people/master/_listings/cisco-webex/openapi.md"
-				}
-			]
-		},
-		{
-			"name": "T2A API",
-			"x-api-slug": "t2a-api",
-			"description": "Simunix pioneered the UK&#8217;s first directory enquiries website - ukphonebook.com - and has been providing directory solutions to many of the UK&#8217;s top organisations since 1999.Simunix was established in 1998 by Managing Director, John Lewis and became the first non-telecom company to license the UK&#8217;s national directory database. In 1999, it became one of the first to set up a free online directory enquiries service - ukphonebook.com.Building on the popularity of ukphonebook.com, Corporate ukphonebook.com was created as a dedicated business service in 2000. It now supplies customers including Merseyside Police and Yorkshire Building Society with access to telephone and address information as well as the UK Electoral Roll.Further developments came in 2002 in response to the deregulation of voice directory enquiries services with the switch from the old access code to a range of competing services under the code 118xxx. Simunix took part in the high-profile number allocation lottery and chose 118080, 118365 and 118090 (for international directory enquiries). 118-Express was created at this time to coincide with the changes occurring in the industry sector.Most recent projects have included the development of TPS Manage, a TPS/CTPS check facility, and T2A, a powerful API for finding, validating and verifying data.Simunix now supplies its range of directory products and services to most private and public sectors including, police, banking, legal, local authorities and many more.",
-			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/932_logo.jpg",
-			"humanURL": "http://t2a.co",
-			"baseURL": "https:///",
-			"tags": "People",
-			"properties": [
-				{
-					"type": "x-openapi-spec",
-					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/people/master/_listings/t2a-api/openapi.md"
-				}
-			]
-		},
-		{
-			"name": "UCAR People",
-			"x-api-slug": "ucar-people",
-			"description": "University Corporation for Atmospheric Research. We are a nonprofit consortium of 100+ universities fostering innovative research in Earth system science.",
-			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1195-ucar-people.jpg",
-			"humanURL": "https://wiki.ucar.edu/display/peopledb/People+REST+API",
-			"baseURL": "https:///",
-			"tags": "People",
-			"properties": [
-				{
-					"type": "x-openapi-spec",
-					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/people/master/_listings/ucar-people/openapi.md"
-				}
-			]
-		},
-		{
 			"name": "MySpace Developers",
 			"x-api-slug": "myspace-developers",
 			"description": "AskMyspace: http://askmyspace.com  Twitter: http://twitter.com/Myspace  Instagram: http://instagram.com/Myspace  Tumblr: http://myspace.tumblr.com  YouTube: http://www.youtube.com/Myspace",
@@ -128,96 +38,6 @@
 			]
 		},
 		{
-			"name": "University of Michigan",
-			"x-api-slug": "university-of-michigan",
-			"description": "A top-ranked public university, the University of Michigan has a tradition of excellence in research, learning and teaching, sports and the arts, and more.",
-			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1635-university-of-michigan.jpg",
-			"humanURL": "http://umich.edu/",
-			"baseURL": "https:///",
-			"tags": "People",
-			"properties": [
-				{
-					"type": "x-openapi-spec",
-					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/people/master/_listings/university-of-michigan/openapi.md"
-				}
-			]
-		},
-		{
-			"name": "Envestnet",
-			"x-api-slug": "envestnet",
-			"description": "Build and transform financial apps and services with access to financial data through our APIs and digital solutions for banks, developers, and innovators.",
-			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1691-yodlee.jpg",
-			"humanURL": "http://www.yodlee.com/",
-			"baseURL": "https://api.crunchbase.com//v/3",
-			"tags": "People",
-			"properties": [
-				{
-					"type": "x-openapi-spec",
-					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/people/master/_listings/envestnet/openapi.md"
-				}
-			]
-		},
-		{
-			"name": "Runscope",
-			"x-api-slug": "runscope",
-			"description": "API performance monitoring. Everything is going to be 200 OK",
-			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1752-runscope.jpg",
-			"humanURL": "http://runscope.com",
-			"baseURL": "https://api.runscope.com//",
-			"tags": "People",
-			"properties": [
-				{
-					"type": "x-openapi-spec",
-					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/people/master/_listings/runscope/openapi.md"
-				}
-			]
-		},
-		{
-			"name": "GlobalChange.gov",
-			"x-api-slug": "globalchange-gov",
-			"description": "The U.S. Global Change Research Program (USGCRP) was established by Presidential Initiative in 1989 and mandated by Congress in the Global Change Research Act (GCRA) of 1990 to &ldquo;assist the Nation and the world to understand, assess, predict, and respond to human-induced and natural processes of global change.&rdquo;",
-			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/global-change-gov.png",
-			"humanURL": "http://globalchange.gov/",
-			"baseURL": "https://data.globalchange.gov//",
-			"tags": "People",
-			"properties": [
-				{
-					"type": "x-openapi-spec",
-					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/people/master/_listings/globalchange-gov/openapi.md"
-				}
-			]
-		},
-		{
-			"name": "Flickr",
-			"x-api-slug": "flickr",
-			"description": "Flickr (pronounced flicker) is an image hosting and video hosting website, and web services suite that was created by Ludicorp in 2004 and acquired by Yahoo in 2005. In addition to being a popular website for users to share and embed personal photographs, and effectively an online community, the service is widely used by photo researchers and by bloggers to host images that they embed in blogs and social media.",
-			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/flickr-logo.jpg",
-			"humanURL": "http://www.flickr.com/",
-			"baseURL": "https://api.flickr.com//services/",
-			"tags": "People",
-			"properties": [
-				{
-					"type": "x-openapi-spec",
-					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/people/master/_listings/flickr/openapi.md"
-				}
-			]
-		},
-		{
-			"name": "Google People",
-			"x-api-slug": "google-people",
-			"description": "The People API lets you list authenticated users Contacts and retrieve profile information for authenticated users and their contacts. For example, lets say the authenticated user, Jen, has Fabian and Ranjith in her private contacts. When your app calls people.connections.list to retrieve a list of her connections, Jen is presented with a consent screen asking to give the app access to the list. If Jen consents, the app retrieves a list containing Fabian and Ranjith (with a resource name for each person). The app can then call people.get, passing in a resource name, to get private contact and public profile data for each person.",
-			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/google-people.png",
-			"humanURL": "https://developers.google.com/people/",
-			"baseURL": "://people.googleapis.com//",
-			"tags": "People",
-			"properties": [
-				{
-					"type": "x-openapi-spec",
-					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/people/master/_listings/google-people/openapi.md"
-				}
-			]
-		},
-		{
 			"name": "Google Plus",
 			"x-api-slug": "google-plus",
 			"description": "Create a more engaging experience and connect with more users by integrating social into your web site. Show profile information, and relevant content and connections from circles. Let visitors recommend and share your content, and prompt friends to take specific actions on your site.",
@@ -229,66 +49,6 @@
 				{
 					"type": "x-openapi-spec",
 					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/people/master/_listings/google-plus/openapi.md"
-				}
-			]
-		},
-		{
-			"name": "Entertainment Express",
-			"x-api-slug": "entertainment-express",
-			"description": "Internet Video Archive (IVA) is a leading entertainment data company providing metadata, images and trailers/clips, for movie and TV content. With the launch of its award-winning Entertainment Express APIs, clients can easily access everything they need to create engaging content discovery experiences. By using Entertainment Express, clients can also connect to other services like movie showtimes and ticketing, content recommendations, content availability and TV channel line-ups. With over a million titles, episodes and over 150,000 videos available, IVA makes it easy for developers to integrate all the services they need at a very affordable price.",
-			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/IVA-logo.png",
-			"humanURL": "https://www.internetvideoarchive.com/",
-			"baseURL": "https://ee.iva-api.com//",
-			"tags": "People",
-			"properties": [
-				{
-					"type": "x-openapi-spec",
-					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/people/master/_listings/entertainment-express/openapi.md"
-				}
-			]
-		},
-		{
-			"name": "SalesLoft",
-			"x-api-slug": "salesloft",
-			"description": "SalesLoft, the leading sales engagement platform, transforms the way sellers engage with their customers by delivering a better selling experience. Our sales engagement platform helps teams set and execute on a cadence of phone, email, and social communications to convert more target accounts into customer accounts. The platform equips sales leaders with new capabilities to test, learn and adapt to ensure their sales reps execute on the most effective selling process for their account-based approach. SalesLoft delivers access to an extensive ecosystem of 3rd party integrations allowing teams to perform all their sales engagement from a single platform.",
-			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/salesloft.png",
-			"humanURL": "http://salesloft.com",
-			"baseURL": "https://api.salesloft.com//",
-			"tags": "People",
-			"properties": [
-				{
-					"type": "x-openapi-spec",
-					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/people/master/_listings/salesloft/openapi.md"
-				}
-			]
-		},
-		{
-			"name": "TVmaze",
-			"x-api-slug": "tvmaze",
-			"description": "Founded in 2014, TVmaze is the leading tv meta-data provider on the web. Serving hundreds of apps and services accoss the web. Providing management tools for users to keep track of their favorite shows.",
-			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/tvm-header-logo.png",
-			"humanURL": "http://www.tvmaze.com",
-			"baseURL": "https://api.tvmaze.com//v1",
-			"tags": "People",
-			"properties": [
-				{
-					"type": "x-openapi-spec",
-					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/people/master/_listings/tvmaze/openapi.md"
-				}
-			]
-		},
-		{
-			"name": "BBC",
-			"x-api-slug": "bbc",
-			"description": "Breaking news, sport, TV, radio and a whole lot more. The BBC informs, educates and entertains - wherever you are, whatever your age.",
-			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28554-bbc-nitro.jpg",
-			"humanURL": "http://www.bbc.com/",
-			"baseURL": "https://programmes.api.bbc.com//nitro/api",
-			"tags": "People",
-			"properties": [
-				{
-					"type": "x-openapi-spec",
-					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/people/master/_listings/bbc/openapi.md"
 				}
 			]
 		},
@@ -315,76 +75,12 @@
 			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/people/master/_listings/fullcontact/apis.yaml"
 		},
 		{
-			"name": "TVTag ",
-			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/people/master/_listings/tvtag-/apis.yaml"
-		},
-		{
-			"name": "LinkedIn",
-			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/people/master/_listings/linkedin/apis.yaml"
-		},
-		{
-			"name": "Huddle",
-			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/people/master/_listings/huddle/apis.yaml"
-		},
-		{
-			"name": "Cisco WebEx",
-			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/people/master/_listings/cisco-webex/apis.yaml"
-		},
-		{
-			"name": "T2A API",
-			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/people/master/_listings/t2a-api/apis.yaml"
-		},
-		{
-			"name": "UCAR People",
-			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/people/master/_listings/ucar-people/apis.yaml"
-		},
-		{
 			"name": "MySpace Developers",
 			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/people/master/_listings/myspace-developers/apis.yaml"
 		},
 		{
-			"name": "University of Michigan",
-			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/people/master/_listings/university-of-michigan/apis.yaml"
-		},
-		{
-			"name": "Envestnet",
-			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/people/master/_listings/envestnet/apis.yaml"
-		},
-		{
-			"name": "Runscope",
-			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/people/master/_listings/runscope/apis.yaml"
-		},
-		{
-			"name": "GlobalChange.gov",
-			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/people/master/_listings/globalchange-gov/apis.yaml"
-		},
-		{
-			"name": "Flickr",
-			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/people/master/_listings/flickr/apis.yaml"
-		},
-		{
-			"name": "Google People",
-			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/people/master/_listings/google-people/apis.yaml"
-		},
-		{
 			"name": "Google Plus",
 			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/people/master/_listings/google-plus/apis.yaml"
-		},
-		{
-			"name": "Entertainment Express",
-			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/people/master/_listings/entertainment-express/apis.yaml"
-		},
-		{
-			"name": "SalesLoft",
-			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/people/master/_listings/salesloft/apis.yaml"
-		},
-		{
-			"name": "TVmaze",
-			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/people/master/_listings/tvmaze/apis.yaml"
-		},
-		{
-			"name": "BBC",
-			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/people/master/_listings/bbc/apis.yaml"
 		},
 		{
 			"name": "Dezrez",

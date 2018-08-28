@@ -11,20 +11,7 @@ created: "2018-08-28"
 modified: "2018-08-28"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/people/master/_listings/fullcontact/apis.md
 specificationVersion: "0.14"
-apis:
-- name: 'FullContact Location API - '
-  x-api-slug: v2person-json-get
-  description: Find out more about a person
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/205-fullcontact.jpg
-  humanURL: http://fullcontact.com
-  baseURL: https://api.fullcontact.com//
-  tags: Contacts, Append, CRM, Enrichment, Social, Social, Contacts, Office, Business
-    Card, Business, My API Stack, API LIfeyclessss, Target, Stack Network, SaaS, Technology,
-    Enterprise, API Provider, API Service Provider, Addresses, Contacts, Contacts,
-    Phones, Profiles, Relative Data, Service API
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/people/master/_listings/fullcontact/v2person-json-get-openapi.md
+apis: []
 x-common:
 - type: x-api-gallery
   url: http://freesound.api.gallery.streamdata.io

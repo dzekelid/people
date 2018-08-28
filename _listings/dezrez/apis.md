@@ -12,28 +12,6 @@ modified: "2018-08-28"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/people/master/_listings/dezrez/apis.md
 specificationVersion: "0.14"
 apis:
-- name: Dezrez.Rezi.Client.Api - Returns Free/Busy information regarding multiple
-    people.
-  x-api-slug: apiappointmentfreebusy-post
-  description: Returns free/busy information regarding multiple people..
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28888-www-dezrez-com.jpg
-  humanURL: https://www.dezrez.com
-  baseURL: https://api.dezrez.com//
-  tags: SaaS, Technology, Real Estate, Properties, Service API, Relative Data
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/people/master/_listings/dezrez/apiappointmentfreebusy-post-openapi.md
-- name: Dezrez.Rezi.Client.Api - Returns a list of people that have the supplied email
-    address.
-  x-api-slug: apipeoplefindbyemail-get
-  description: Returns a list of people that have the supplied email address..
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28888-www-dezrez-com.jpg
-  humanURL: https://www.dezrez.com
-  baseURL: https://api.dezrez.com//
-  tags: SaaS, Technology, Real Estate, Properties, Service API, Relative Data
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/people/master/_listings/dezrez/apipeoplefindbyemail-get-openapi.md
 - name: Dezrez.Rezi.Client.Api - Search for People across the system.
   x-api-slug: apiglobalsearchpeople-get
   description: Search for people across the system..
